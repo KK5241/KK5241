@@ -13,39 +13,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>🧩 Tech Stack (Spatial View)</h3>
-      <!-- Row 1: Small -->
-      <img src="https://skillicons.dev/icons?i=html" height="30" alt="html" />
-      <img src="https://skillicons.dev/icons?i=css" height="30" alt="css" />
-      <img src="https://skillicons.dev/icons?i=python" height="30" alt="python" />
-      <img src="https://skillicons.dev/icons?i=git" height="30" alt="git" />
-      <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwind" />
-      <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite" />
-      <br />
-      <!-- Row 2: Large + Margin Left (via &nbsp;) -->
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="javascript" />
-      <img src="https://skillicons.dev/icons?i=typescript" height="60" alt="typescript" />
-      <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs" />
-      <img src="https://skillicons.dev/icons?i=webpack" height="60" alt="webpack" />
-      <img src="https://skillicons.dev/icons?i=react" height="60" alt="react" />
-      <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs" />
-      <br />
-    </td>
-    <td valign="top" width="50%">
-      <h3>🚀 Projects</h3>
-      <ul>
-        <li><a href="#"><b>Project Name 1</b></a><br>简短的项目描述，介绍主要功能和技术点。</li>
-        <li><a href="#"><b>Project Name 2</b></a><br>简短的项目描述，介绍主要功能和技术点。</li>
-        <li><a href="#"><b>Project Name 3</b></a><br>简短的项目描述，介绍主要功能和技术点。</li>
-      </ul>
-    </td>
+## Tech Stack
 
-  </tr>
-</table>
+<div align="center">
+
+  <!-- Node & 后端 -->
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,redis,mysql,docker,prisma,python" height="35" />
+  
+  <!-- 前端 & 工程化 -->
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,vite,webpack"  />
+
+  <!-- AI / LLM（JS 生态） -->
+  <br>
+  <img src="https://img.shields.io/badge/LangChain.js-333333?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_API-111111?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-00C7B7?style=for-the-badge&logo=qdrant&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-0077B5?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+
+</div>
+
 
 <!-- 贪吃蛇 - 图片由 actions/Generate Snake 定时生成 -->
 <picture>
