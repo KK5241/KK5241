@@ -1,0 +1,47 @@
+
+<svg width="100%" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style>
+    .icon {
+      transition: transform .3s ease, filter .3s ease;
+      cursor: pointer;
+    }
+    .icon:hover {
+      transform: scale(1.15);
+      filter: drop-shadow(0 8px 16px rgba(0,0,0,.25));
+    }
+    .far { opacity: 0.55; }
+    .mid { opacity: 0.8; }
+    .near { opacity: 1; }
+  </style>
+
+  <!-- 背景层（远） -->
+  <image class="icon far"
+    href="https://skillicons.dev/icons?i=html"
+    x="80" y="80" width="48" height="48" />
+
+  <image class="icon far"
+    href="https://skillicons.dev/icons?i=css"
+    x="200" y="60" width="52" height="52" />
+
+  <!-- 中间层 -->
+  <image class="icon mid"
+    href="https://skillicons.dev/icons?i=javascript"
+    x="360" y="140" width="72" height="72" />
+
+  <image class="icon mid"
+    href="https://skillicons.dev/icons?i=typescript"
+    x="520" y="100" width="68" height="68" />
+
+  <!-- 前景层 -->
+  <image class="icon near"
+    href="https://skillicons.dev/icons?i=react"
+    x="300" y="40" width="96" height="96" />
+
+  <image class="icon near"
+    href="https://skillicons.dev/icons?i=tailwind"
+    x="460" y="200" width="88" height="88" />
+
+  <image class="icon near"
+    href="https://skillicons.dev/icons?i=vite"
+    x="180" y="220" width="84" height="84" />
+</svg>

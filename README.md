@@ -17,47 +17,23 @@ Here are some ideas to get you started:
   <tr>
     <td valign="top" width="50%">
       <h3>🧩 Tech Stack (Spatial View)</h3>
-      <svg width="100%" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
-        <!-- Background Layer (Far) -->
-        <image href="https://skillicons.dev/icons?i=html" x="80" y="80" width="48" height="48" style="opacity:0.55; cursor:pointer;">
-          <title>HTML</title>
-        </image>
-        <image href="https://skillicons.dev/icons?i=css" x="200" y="60" width="52" height="52" style="opacity:0.55; cursor:pointer;">
-          <title>CSS</title>
-        </image>
-        <image href="https://skillicons.dev/icons?i=python" x="680" y="80" width="48" height="48" style="opacity:0.55; cursor:pointer;">
-          <title>Python</title>
-        </image>
-        <image href="https://skillicons.dev/icons?i=git" x="50" y="300" width="48" height="48" style="opacity:0.55; cursor:pointer;">
-          <title>Git</title>
-        </image>
-        <!-- Middle Layer (Mid) -->
-        <image href="https://skillicons.dev/icons?i=javascript" x="360" y="140" width="72" height="72" style="opacity:0.8; cursor:pointer;">
-          <title>JavaScript</title>
-        </image>
-        <image href="https://skillicons.dev/icons?i=typescript" x="520" y="100" width="68" height="68" style="opacity:0.8; cursor:pointer;">
-          <title>TypeScript</title>
-        </image>
-        <image href="https://skillicons.dev/icons?i=nodejs" x="120" y="160" width="60" height="60" style="opacity:0.8; cursor:pointer;">
-          <title>Node.js</title>
-        </image>
-        <image href="https://skillicons.dev/icons?i=webpack" x="650" y="200" width="60" height="60" style="opacity:0.8; cursor:pointer;">
-          <title>Webpack</title>
-        </image>
-        <!-- Foreground Layer (Near) -->
-        <image href="https://skillicons.dev/icons?i=react" x="300" y="40" width="96" height="96" style="opacity:1; cursor:pointer;">
-          <title>React</title>
-        </image>
-        <image href="https://skillicons.dev/icons?i=nextjs" x="580" y="20" width="90" height="90" style="opacity:1; cursor:pointer;">
-          <title>Next.js</title>
-        </image>
-        <image href="https://skillicons.dev/icons?i=tailwind" x="460" y="200" width="88" height="88" style="opacity:1; cursor:pointer;">
-          <title>Tailwind CSS</title>
-        </image>
-        <image href="https://skillicons.dev/icons?i=vite" x="180" y="220" width="84" height="84" style="opacity:1; cursor:pointer;">
-          <title>Vite</title>
-        </image>
-      </svg>
+      <!-- Row 1: Small -->
+      <img src="https://skillicons.dev/icons?i=html" height="30" alt="html" />
+      <img src="https://skillicons.dev/icons?i=css" height="30" alt="css" />
+      <img src="https://skillicons.dev/icons?i=python" height="30" alt="python" />
+      <img src="https://skillicons.dev/icons?i=git" height="30" alt="git" />
+      <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwind" />
+      <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite" />
+      <br />
+      <!-- Row 2: Large + Margin Left (via &nbsp;) -->
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="javascript" />
+      <img src="https://skillicons.dev/icons?i=typescript" height="60" alt="typescript" />
+      <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs" />
+      <img src="https://skillicons.dev/icons?i=webpack" height="60" alt="webpack" />
+      <img src="https://skillicons.dev/icons?i=react" height="60" alt="react" />
+      <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs" />
+      <br />
     </td>
     <td valign="top" width="50%">
       <h3>🚀 Projects</h3>
@@ -67,6 +43,7 @@ Here are some ideas to get you started:
         <li><a href="#"><b>Project Name 3</b></a><br>简短的项目描述，介绍主要功能和技术点。</li>
       </ul>
     </td>
+
   </tr>
 </table>
 
