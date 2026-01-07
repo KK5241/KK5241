@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
   <!-- Node & 后端 -->
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,redis,mysql,docker,prisma,python" height="35" />
-  
+
+  <br>
   <!-- 前端 & 工程化 -->
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,vite,webpack"  />
 
